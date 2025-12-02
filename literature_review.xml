@@ -1,0 +1,226 @@
+<CapabilityLiteratureReview xmlns="https://example.org/capability-review">
+
+    <!-- ========================================================= -->
+    <!-- ==============   PAPER 1 – P001 Sarkar 2019  ============ -->
+    <!-- ========================================================= -->
+    <Paper>
+        <ID>P001</ID>
+        <Title>Ontology Model for Process Level Capabilities of Manufacturing Resources</Title>
+        <Authors>Arkopaul Sarkar, Dušan Šormaz</Authors>
+        <Year>2019</Year>
+        <Summary>
+            This paper presents an ontology model to represent capabilities of manufacturing 
+            machine-tools at the process level. It uses a Basic Formal Ontology (BFO) foundation 
+            to semantically define process capabilities, resource behaviors, and integration in 
+            cloud manufacturing systems.
+        </Summary>
+
+        <KeyConcepts>
+            <Concept>Process Capability</Concept>
+            <Concept>Manufacturing Resource Ontology</Concept>
+            <Concept>Semantic Interoperability</Concept>
+            <Concept>Virtual Machine Tools</Concept>
+        </KeyConcepts>
+
+        <ResilienceAttributes>
+            <Attribute>Consistency</Attribute>
+            <Attribute>Accuracy</Attribute>
+            <Attribute>Predictability</Attribute>
+            <Attribute>Interoperability</Attribute>
+        </ResilienceAttributes>
+
+        <Reference>A. Sarkar and D. Šormaz, “Ontology Model for Process Level Capabilities of Manufacturing Resources,” 
+in *2019 International Conference on Smart Manufacturing (ICSM)*, 2019, pp. 1–8.
+</Reference>
+    </Paper>
+
+    <Mapping>
+        <PaperID>P001</PaperID>
+        <CapabilityConcepts>
+            <Concept>Process Capability</Concept>
+            <Concept>Ontology-based Modelling</Concept>
+            <Concept>Resource Representation</Concept>
+            <Concept>Semantic Integration</Concept>
+        </CapabilityConcepts>
+        <ResilienceAttributes>
+            <Attribute>Consistency</Attribute>
+            <Attribute>Accuracy</Attribute>
+            <Attribute>Predictability</Attribute>
+            <Attribute>Interoperability</Attribute>
+        </ResilienceAttributes>
+        <Notes>
+            Useful for modelling machine-tool capability definitions inside AML and integrated CAEX structures.
+        </Notes>
+    </Mapping>
+
+    <!-- ========================================================= -->
+    <!-- ==============   PAPER 2 – P002 Xue 2022   ============== -->
+    <!-- ========================================================= -->
+    <Paper>
+        <ID>P002</ID>
+        <Title>Dynamic Evaluation and Spatial Characteristics of Smart Manufacturing Capability in China</Title>
+        <Authors>Jie Xue, Zhenyan Li, Xian Wang, Yanli Ji</Authors>
+        <Year>2022</Year>
+        <Summary>
+            This study evaluates smart manufacturing capability across 30 Chinese provinces 
+            (2014–2019). It uses an index system across environment, infrastructure, and 
+            industrial development supported by entropy weight, TOPSIS, and TOWA 
+            methodologies. Results show regional gradients and increasing spatial clustering.
+        </Summary>
+
+        <KeyConcepts>
+            <Concept>Smart Manufacturing Capability</Concept>
+            <Concept>TOPSIS</Concept>
+            <Concept>TOWA</Concept>
+            <Concept>Spatial Correlation</Concept>
+        </KeyConcepts>
+
+        <ResilienceAttributes>
+            <Attribute>Adaptability</Attribute>
+            <Attribute>Scalability</Attribute>
+            <Attribute>Responsiveness</Attribute>
+            <Attribute>Regional Robustness</Attribute>
+        </ResilienceAttributes>
+
+        <Reference>J. Xue, Z. Li, X. Wang, and Y. Ji, “Dynamic Evaluation and Spatial Characteristics of Smart Manufacturing Capability in China,” 
+*Complexity*, vol. 2022, pp. 1–16, 2022.
+</Reference>
+    </Paper>
+
+    <Mapping>
+        <PaperID>P002</PaperID>
+        <CapabilityConcepts>
+            <Concept>Regional Capability Evaluation</Concept>
+            <Concept>Smart Manufacturing Infrastructure</Concept>
+            <Concept>Dynamic Capability Assessment</Concept>
+            <Concept>Spatial Dependency</Concept>
+        </CapabilityConcepts>
+        <ResilienceAttributes>
+            <Attribute>Adaptability</Attribute>
+            <Attribute>Scalability</Attribute>
+            <Attribute>Responsiveness</Attribute>
+            <Attribute>Regional Robustness</Attribute>
+        </ResilienceAttributes>
+        <Notes>
+            Provides methodology foundations for quantitative capability assessment models 
+            we may integrate into the final Capability Framework.
+        </Notes>
+    </Mapping>
+
+    <!-- ========================================================= -->
+    <!-- ==============   PAPER 3 – P003 Folke 2010  ============= -->
+    <!-- ========================================================= -->
+    <Paper>
+        <ID>P003</ID>
+        <Title>Resilience Thinking: Integrating Resilience, Adaptability and Transformability</Title>
+        <Authors>
+            Carl Folke, Stephen R. Carpenter, Brian Walker, 
+            Marten Scheffer, Terry Chapin, Johan Rockström
+        </Authors>
+        <Year>2010</Year>
+        <Summary>
+            Foundational work that defines resilience, adaptability, and transformability in 
+            social–ecological systems. Explains multi-scale interactions, threshold behavior, 
+            and how transformations at smaller scales support long-term resilience.
+        </Summary>
+
+        <KeyConcepts>
+            <Concept>Resilience</Concept>
+            <Concept>Adaptability</Concept>
+            <Concept>Transformability</Concept>
+            <Concept>Multi-scale Dynamics</Concept>
+        </KeyConcepts>
+
+        <ResilienceAttributes>
+            <Attribute>Adaptability</Attribute>
+            <Attribute>Robustness</Attribute>
+            <Attribute>Recoverability</Attribute>
+            <Attribute>Responsiveness</Attribute>
+        </ResilienceAttributes>
+
+        <Reference>YC. Folke, S. R. Carpenter, B. Walker, M. Scheffer, T. Chapin, and J. Rockström, 
+“Resilience Thinking: Integrating Resilience, Adaptability and Transformability,” 
+*Ecology and Society*, vol. 15, no. 4, p. 20, 2010.
+</Reference>
+    </Paper>
+
+    <Mapping>
+        <PaperID>P003</PaperID>
+        <CapabilityConcepts>
+            <Concept>Resilience</Concept>
+            <Concept>Adaptability</Concept>
+            <Concept>Transformability</Concept>
+            <Concept>System Dynamics</Concept>
+        </CapabilityConcepts>
+        <ResilienceAttributes>
+            <Attribute>Adaptability</Attribute>
+            <Attribute>Robustness</Attribute>
+            <Attribute>Recoverability</Attribute>
+            <Attribute>Responsiveness</Attribute>
+        </ResilienceAttributes>
+        <Notes>
+            Forms the theoretical backbone for defining resilience attributes 
+            within the capability model.
+        </Notes>
+    </Mapping>
+
+    <!-- ========================================================= -->
+    <!-- ==============   PAPER 4 – P004 ETFA 2024   ============= -->
+    <!-- ========================================================= -->
+    <Paper>
+        <ID>P004</ID>
+        <Title>
+            Product-Oriented Product-Process-Resource Asset Network and its Representation in 
+            AutomationML for Asset Administration Shell
+        </Title>
+        <Authors>Sára Strakošová, Petr Novák, Petr Kadera</Authors>
+        <Year>2024</Year>
+        <Summary>
+            This paper proposes a Product-Process-Resource (PPR) Asset Network model and its 
+            structured representation in AutomationML integrated with the Asset Administration 
+            Shell (AAS). Focuses on lifecycle management, mechatronics, EV engineering, and 
+            standard-based digital models.
+        </Summary>
+
+        <KeyConcepts>
+            <Concept>Product-Process-Resource (PPR)</Concept>
+            <Concept>AutomationML</Concept>
+            <Concept>Asset Administration Shell (AAS)</Concept>
+            <Concept>Lifecycle Management</Concept>
+            <Concept>Mechatronic Systems</Concept>
+        </KeyConcepts>
+
+        <ResilienceAttributes>
+            <Attribute>Interoperability</Attribute>
+            <Attribute>Modularity</Attribute>
+            <Attribute>Traceability</Attribute>
+            <Attribute>Maintainability</Attribute>
+        </ResilienceAttributes>
+
+        <Reference>YS. Strakošová, P. Novák, and P. Kadera, 
+“Product-Oriented Product-Process-Resource Asset Network and its Representation in AutomationML for Asset Administration Shell,” 
+in *2024 IEEE 29th International Conference on Emerging Technologies and Factory Automation (ETFA)*, 2024, pp. 1–8.
+</Reference>
+    </Paper>
+
+    <Mapping>
+        <PaperID>P004</PaperID>
+        <CapabilityConcepts>
+            <Concept>PPR Network Representation</Concept>
+            <Concept>AutomationML Structures</Concept>
+            <Concept>AAS Integration</Concept>
+            <Concept>Lifecycle Traceability</Concept>
+        </CapabilityConcepts>
+        <ResilienceAttributes>
+            <Attribute>Interoperability</Attribute>
+            <Attribute>Modularity</Attribute>
+            <Attribute>Traceability</Attribute>
+            <Attribute>Maintainability</Attribute>
+        </ResilienceAttributes>
+        <Notes>
+            This paper guides how to implement the capability model physically inside an 
+            AML/CAEX digital engineering environment.
+        </Notes>
+    </Mapping>
+
+</CapabilityLiteratureReview>
