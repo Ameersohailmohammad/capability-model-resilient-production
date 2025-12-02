@@ -1,6 +1,6 @@
 # capability-model-resilient-production
 # capability-model-project
-01_Literature01_Literature/
+01_Literature01_Literature
 ├── notes/                  
 ├── mappings/               
 └── literature_review.xml   
